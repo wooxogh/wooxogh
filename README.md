@@ -1,5 +1,4 @@
-## Hi there 👋
-## I'm TaehoWoo
+## Hi there 👋 \n I'm TaehoWoo
 
 <!--
 **wooxogh/wooxogh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
