@@ -39,16 +39,6 @@
 ![Claude](https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 
-<!-- GitHub Stats -->
-## 📊 Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=wooxogh&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa&icon_color=4493f8&border_color=30363d&hide_border=false&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wooxogh&layout=compact&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa&border_color=30363d&hide_border=false" />
-</div>
-
-<br/>
-
 <!-- Contact -->
 ## 📫 Contact
 
