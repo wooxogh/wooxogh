@@ -40,28 +40,6 @@
 ![Claude](https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 
-<br/>
-
-<!-- Projects -->
-## 🚀 Projects
-
-| 프로젝트 | 설명 | 핵심 | 스택 |
-|---|---|---|---|
-| **[GIFPT](https://github.com/wooxogh)** | PDF → AI 학습 애니메이션 생성 플랫폼 | 비동기 파이프라인으로 응답 수 분 → **30~50ms** | Spring Boot · Django · Celery · Redis |
-| **[남사칭](https://github.com/wooxogh)** | 실시간 보이스피싱·사기 탐지 웹서비스 | DB FULLTEXT + LLM 재랭킹 구조로 캐시 히트 시 **8ms** | Django · MySQL · OpenAI API |
-| **[IDEALAB](https://github.com/wooxogh)** | 공공데이터 기반 상권 분석 + 협업 툴 | 수집·적재·분석·서빙 단계 분리 설계 | Django · AWS RDS · Docker |
-
-<br/>
-
-<!-- Achievement -->
-## 🏆 Achievements
-
-- 🥇 제3회 연세 GenAI 활용 경진대회 **금상** (2025)
-- 👥 멋쟁이사자처럼 연세대학교 **14기 대표** (2026)
-- 🎓 연세대학교 컴퓨터과학과 학생회 **부학생회장** (2024)
-
-<br/>
-
 <!-- GitHub Stats -->
 ## 📊 Stats
 
@@ -77,7 +55,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/t)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%ED%83%9C%ED%98%B8-%EC%9A%B0-15247a388/)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@ehho0916)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wooxogh)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ehho0916@yonsei.ac.kr)
