@@ -3,18 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=200&section=header&text=Taeho%20Woo&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20developer%20who%20turns%20AI%20bottlenecks%20into%20structure.&descAlignY=58&descSize=16&descColor=aaaaaa" />
 </div>
 
-<br/>
-
-<!-- Intro -->
-<div align="center">
-
-```
-수 분 → 30~50ms.  구조가 바뀌면 제품의 본질이 달라진다.
-```
-
-</div>
-
-<br/>
 
 <!-- Status -->
 ## 🔭 Now
