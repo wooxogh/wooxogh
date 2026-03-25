@@ -3,15 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=200&section=header&text=Taeho%20Woo&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20developer%20who%20turns%20AI%20bottlenecks%20into%20structure.&descAlignY=58&descSize=16&descColor=aaaaaa" />
 </div>
 
-<!-- Status -->
-## 🔭 Now
-
-- 산업기능요원(보충역) 신규 편입 준비 중
-- AI 에이전트 연동 & 백엔드 자동화 파이프라인 탐구 중
-- Claude Code, Cursor 등 AI 도구를 활용한 개발 자동화 실험 중
-
-<br/>
-
 <!-- Tech Stack -->
 ## 🛠 Tech Stack
 
